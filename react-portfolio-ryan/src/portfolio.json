@@ -1,0 +1,51 @@
+[
+  {
+    "id": 1,
+    "name": "Password Generator",
+    "image": "./images/pic1.png",
+    "description": "This website was created to randomly generate a password based of users criteria",
+    "repoLink": "https://github.com/ryanwit/homework03_password_generator",
+    "deployedLink": "https://ryanwit.github.io/homework03_password_generator/"
+  },
+  {
+    "id": 2,
+    "name": "Code Quiz",
+    "image": "./images/pic2.png",
+    "description": "This quiz was created to test the users knowledge of javascript and html This quiz will keep track of your score as you move through the quiz",
+    "repoLink": "https://github.com/ryanwit/homework04_code_quiz",
+    "deployedLink": "https://ryanwit.github.io/homework04_code_quiz/"
+  },
+  {
+    "id": 3,
+    "name": "Weather Dashboard",
+    "image": "./images/pic3.png",
+    "description": "Created Weather Dashboard that shows the current forecast of the selected city location and the next 5 days",
+    "repoLink": "https://github.com/ryanwit/homework03_password_generator",
+    "deployedLink": "https://github.com/ryanwit/homework_06_weather_dashboard"
+  },
+  {
+    "id": 4,
+    "name": "Project One",
+    "image": "./images/pic4.png",
+    "description": "Taco CO's musical playlist generator helps the user search for music, create and organize searched songs into a playlist, that can then be exported. Our application it the first of it's kind to also feature TacoTV, which displays unique GIFs while the user listens to music!",
+    "repoLink": "https://github.com/ryanwit/Music-API-Group-Project",
+    "deployedLink": "https://noracurcio.github.io/Music-API-Group-Project/https://ryanwit.github.io/homework03_password_generator/"
+  },
+  {
+    "id": 5,
+    "name": "Project Two",
+    "image": "./images/pic7.png",
+    "description": "Simple hotel Property Management System that allows users to checkin/out guests and view their reservation information",
+    "repoLink": "https://github.com/ryanwit/hotel_motel",
+    "deployedLink": "https://hotelmotel.herokuapp.com/"
+  },
+  {
+    "id": 6,
+    "name": "RyRy's Burger Bar",
+    "image": "./images/pic6.png",
+    "description": "This Burger Bar Application allows the users to view, create, and update a burger.  I used MySQL, Node, Express, Handlebars, and a homemade ORM.  This site is deployed on Heroku",
+    "repoLink": "https://github.com/ryanwit/homework_13_node_express_handlebars_hamburger",
+    "deployedLink": "https://mighty-brushlands-34914.herokuapp.com/"
+  },
+ 
+]
