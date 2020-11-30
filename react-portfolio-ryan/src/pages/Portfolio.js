@@ -1,5 +1,7 @@
-import React from "react";
-import portfolio from "./portfolio"
+import React, { Component } from "react";
+import portfolio from "./portfolio.json" //importing in JSON file
+import PortfolioCard from "./components/PortfolioCard"
+
 
 class Portfolio extends Component {
   // Setting this.state.friends to the friends json array
@@ -27,3 +29,5 @@ class Portfolio extends Component {
     );
   }
 }
+
+export default Portfolio;

@@ -1,0 +1,9 @@
+.jumbotron {
+    background-image: url('../images/background_image.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    }
+.bio {
+    font-family: 'Baloo Tammudu 2', cursive;
+    font-size: larger;
+}
