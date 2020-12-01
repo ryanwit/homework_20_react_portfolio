@@ -32,7 +32,7 @@ I had some isses with deploying to heroku
 Ryan Witherspoon
 
 ## Image
-![image info](react-portfolio-ryan/src/images/homework20_screengrab.png)
+![image info](src/images/homework20_screengrab.png)
 
 ## Links
 [Link to GitHub!](https://github.com/ryanwit/homework_20_react_portfolio)
