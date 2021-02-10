@@ -6,7 +6,7 @@ function Contact(props) {
   return (
     <div className="container">
     < div className="row">
-      <div className="col-6">
+      {/* <div className="col-6">
         <div>
           <div className="form-group">
             <label for="firstname">First Name</label>
@@ -35,7 +35,7 @@ function Contact(props) {
           <input className="btn btn-primary" type="submit" value="Submit">
             </input>
         </div>
-        </div>
+        </div> */}
           <div className="col-6">
             <h1>Contact Me!</h1>
           <img src={hello} className="img-thumbnail" alt="hello"></img>
