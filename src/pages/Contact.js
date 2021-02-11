@@ -41,7 +41,7 @@ function Contact(props) {
           <img src={hello} className="img-thumbnail" alt="hello"></img>
           <a href="https://github.com/ryanwit" target="_blank" rel="noreferrer" type="button" className="btn btn-success mr-2" >My GitHub Page</a>
           <a href="https://www.linkedin.com/in/ryanwitherspoon/" target="_blank" rel="noreferrer" type="button" className="btn btn-success mr-2 " >My LinkedIn Page</a>
-          <a href="https://drive.google.com/file/d/1R_e3Z3FRO_PTFE2hwBZ52JyFSmzqR3eI/view?usp=sharing" target="_blank" rel="noreferrer" type="button" className="btn btn-success" >My Resume</a>
+          <a href="https://drive.google.com/file/d/1vKVh5dA52vXTsHzLQ_WHJ8JQaynMr77u/view?usp=sharing" target="_blank" rel="noreferrer" type="button" className="btn btn-success" >My Resume</a>
         </div>
         
         

@@ -18,7 +18,7 @@ function Portfolio() {
               <p className="card-text">Musical playlist generator helps the user search for music, create and organize searched songs into a playlist, that can then be exported. I used JavaScript, jQuery, CSS, HTML, ES6, Rapid API, Deezer, Giphy, GoogleFonts, TypeIT.JS and Bootstrap</p>
             </div>
             <div className="card-body">
-              <a href="https://noracurcio.github.io/Music-API-Group-Project/" target="_blank" rel="noreferrer"  className="card-link">Deployed Link</a>
+              <a href="https://ryanwit.github.io/Music-API-Group-Project/" target="_blank" rel="noreferrer"  className="card-link">Deployed Link</a>
               <a href="https://github.com/ryanwit/Music-API-Group-Project" target="_blank" rel="noreferrer"  className="card-link">GitHub Link</a>
             </div>
           </div>
